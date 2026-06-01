@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Resources/main.png" alt="VPN Client Logo" width="300">
+</div>
+
 # VPN Client
 
 A full-featured desktop VPN client built with **Python + PyQt6**, inspired by [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client).  
