@@ -4,7 +4,7 @@
 
 # VPN Client
 
-A full-featured desktop VPN client built with **Python + PyQt6**, inspired by [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client).  
+A full-featured desktop VPN client built with **Python + PyQt6**.  
 Supports multiple VPN protocols, full VPNGate server browsing, automatic failover, and cross-platform timezone management.
 
 ---
